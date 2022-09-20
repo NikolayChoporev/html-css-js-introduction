@@ -42,12 +42,17 @@ body {
  .thumbnails-item {
  width: 20vw;
  height: 20vw;
- margin-top: 2.5vh;
- border: solid 1px black
+ margin-top: 1.5vh;
+ border: solid 1px black;
+ overflow: auto;
+border-radius: 25%;
+
  }
  .thumbnails-image {
      width: 20vw;
      height: 15vw;
+     display: block;
+    
  }
  .thumbnails-title {
      display: block; 
