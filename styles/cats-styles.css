@@ -20,7 +20,7 @@ body {
 
  }
 .logo  {
- font-size: 2em;
+font-size: 2em;
  background-color: bisque;
  display: block;
  text-align: center;
@@ -102,9 +102,12 @@ overflow: hidden;
     .details-image {
         width: 40vw;
         height: 30vw;
+        
     }
     .details-container {
-      text-align: center;
+      text-align:justify ;
       justify-content:center ;
-}
- }
+
+
+        }
+    }
